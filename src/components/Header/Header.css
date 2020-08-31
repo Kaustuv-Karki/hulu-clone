@@ -2,7 +2,6 @@
     display: flex;
     color: white;
     align-items: center;
-    background-color: black;
     justify-content: space-between;
     overflow-x: scroll;
 }
